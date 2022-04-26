@@ -34,3 +34,12 @@ a {
     color: black;
     font-size: 18px;
 }
+
+.inhouds_container {
+    margin-left: 300px;
+}
+
+.inhouds_container a:hover {
+    color: blue;
+    background-color: rgb(163, 163, 227);
+}
